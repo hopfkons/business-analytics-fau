@@ -11,3 +11,5 @@ Instructor: [Dr. Konstantin Hopf](https://www.uni-bamberg.de/eesys/team/konstant
 | T01 | Python overview (variables, data types, operators, lists) | `1_Python_Introduction.ipynb` |
 | T02 | Python program flow (loops, conditionals, functions) | `1_Python_Introduction.ipynb` |
 |     | Pandas library intro | `2_Pandas.ipynb` |
+| T03 | Pandas (cont'd)      | `2_Pandas.ipynb` |
+| T04 | Data visualization | `3_data_visualization.ipynb` | 
