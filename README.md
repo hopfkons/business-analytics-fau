@@ -13,9 +13,13 @@ Instructor: [Dr. Konstantin Hopf](https://www.uni-bamberg.de/eesys/team/konstant
 |     | Pandas library intro | `2_Pandas.ipynb` |
 | T03 | Pandas (cont'd)      | `2_Pandas.ipynb` |
 | T04 | Data visualization | `3_data_visualization.ipynb` | 
-| T05 | Linear regression | `5_Classification_LinearModels.ipynb` |
-| T06 | Decision tree classifier | `6_Decision_Trees.ipynb` |
-| T07 | Classifier evaluation | `7_Classifier_evaluation.ipynb` |
+| T05 | Linear regression | `4_Regression.ipynb` |
+| T06 | Logistic regression | `5_Classification_LinearModels.ipynb` |
+| T07 | Decision tree classifier | `6_Decision_Trees.ipynb` |
+| T08 | Classifier evaluation | `7_Classifier_evaluation.ipynb` |
+| T09 | Analytics Project | `8_SmartMeterAnalytics.ipynb` |
+| T10 | Analytics Project | `8_SmartMeterAnalytics.ipynb` |
+| T11 | Prescriptive Analytics | `11_prescriptive_analytics.ipynb` |
 
 ## List of Python functionalities used in this course
 
